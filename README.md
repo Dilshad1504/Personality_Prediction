@@ -1,4 +1,3 @@
-# Personality_Prediction
 # Personality Prediction using MBTI and NLP
 
 This project predicts a user's personality type (MBTI) based on the text they have written. It uses NLP (Natural Language Processing) and Logistic Regression to classify the personality type into four traits:  
